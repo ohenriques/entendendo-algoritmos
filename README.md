@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de como você pode expandir o arquivo README para o seu projeto:
-
 
 # Entendendo Algoritmos
 
