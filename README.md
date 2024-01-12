@@ -1,6 +1,6 @@
 Claro, aqui está um exemplo de como você pode expandir o arquivo README para o seu projeto:
 
-```markdown
+
 # Entendendo Algoritmos
 
 Este repositório contém implementações em Java e Python dos exemplos do livro "Entendendo Algoritmos".
